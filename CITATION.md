@@ -4,10 +4,10 @@ If you use the LinkedIn Job Scraper in your research or projects, please cite it
 
 **BibTeX**:
 ```bibtex
-@misc{linkedin-job-scraper,
-  author = {Your Name},
-  title = {LinkedIn Job Scraper},
+@misc{linkedin-job-scraper-analysis,
+  author = Manuel Gastelum,
+  title = {LinkedIn Job Scraper Analysis},
   year = {2025},
-  howpublished = {\\url{https://github.com/yourusername/linkedin-job-scraper}},
+  howpublished = {\\url{https://github.com/m5991/linkedin-jobs-scraper-analysis}},
 }
 ```  
