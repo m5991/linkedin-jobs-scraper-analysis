@@ -1,4 +1,4 @@
-# Contributing to LinkedIn Job Scraper
+# Contributing to LinkedIn Job Scraper Analysis
 
 Thank you for your interest in contributing! We welcome issues, pull requests, and suggestions.
 
@@ -12,6 +12,3 @@ Thank you for your interest in contributing! We welcome issues, pull requests, a
 ## Reporting Issues
 - Use the GitHub issue tracker to report bugs, feature requests, or documentation improvements.
 - Provide a clear title and description, including steps to reproduce if applicable.
-
-## Code of Conduct
-Please follow our [Code of Conduct](https://github.com/yourusername/linkedin-job-scraper/blob/main/CODE_OF_CONDUCT.md) to maintain a welcoming community.
